@@ -13,6 +13,6 @@ deploy:
   provider: firebase
   token:
     secure: $FIREBASE_TOKEN
-  project: firepix
+  project: firepix-600bd
 notifications:
   email: false
