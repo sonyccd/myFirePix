@@ -1,4 +1,5 @@
 # Friendly Pix Web
+[![Build Status](https://travis-ci.org/sonyccd/myFirePix.svg?branch=master)](https://travis-ci.org/sonyccd/myFirePix)
 
 Friendly Pix Web is a sample app demonstrating how to build a JavaScript/Web app with the Firebase Platform.
 
