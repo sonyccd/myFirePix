@@ -1,5 +1,8 @@
 # Friendly Pix Web
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/887933bedc7e4200a4c58d0e7e5f9880)](https://app.codacy.com/app/sonyccd/myFirePix?utm_source=github.com&utm_medium=referral&utm_content=sonyccd/myFirePix&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/sonyccd/myFirePix.svg?branch=master)](https://travis-ci.org/sonyccd/myFirePix)
+[![Known Vulnerabilities](https://snyk.io/test/github/sonyccd/myfirepix/badge.svg?targetFile=package.json)](https://snyk.io/test/github/sonyccd/myfirepix?targetFile=package.json)
+[![Known Vulnerabilities](https://snyk.io/test/github/sonyccd/myfirepix/badge.svg?targetFile=package.json)](https://snyk.io/test/github/sonyccd/myfirepix?targetFile=functions/package.json)  
 
 Friendly Pix Web is a sample app demonstrating how to build a JavaScript/Web app with the Firebase Platform.
 
