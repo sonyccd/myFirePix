@@ -1,6 +1,7 @@
 # Friendly Pix Web
 [![Build Status](https://travis-ci.org/sonyccd/myFirePix.svg?branch=master)](https://travis-ci.org/sonyccd/myFirePix)
-
+[![Known Vulnerabilities](https://snyk.io/test/github/sonyccd/myfirepix/badge.svg?targetFile=package.json)](https://snyk.io/test/github/sonyccd/myfirepix?targetFile=package.json)
+[![Known Vulnerabilities](https://snyk.io/test/github/sonyccd/myfirepix/badge.svg?targetFile=package.json)](https://snyk.io/test/github/sonyccd/myfirepix?targetFile=functions/package.json)
 Friendly Pix Web is a sample app demonstrating how to build a JavaScript/Web app with the Firebase Platform.
 
 Friendly Pix is a place where you can share photos, follow friends, comment on photos...
